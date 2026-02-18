@@ -1,3 +1,5 @@
+* **Ambiente:** [Google Colaboratory](https://colab.research.google.com/) (Suporte total para visualização gráfica em nuvem).
+
 | Visão Computacional  | Computação Gráfica         |
 | -------------------- | -------------------------- |
 | Analisa imagens      | Cria imagens               |
