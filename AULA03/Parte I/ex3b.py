@@ -8,7 +8,7 @@ def escala(pontos, Sx, Sy):
         pontos_escala.append((x_u, y_u))
     return pontos_escala
 
-# Exercício 03 b
+# Exercício 3b)
 p1 = (2, 2)
 p2 = (4, 4)
 Sx, Sy = 2, 2
