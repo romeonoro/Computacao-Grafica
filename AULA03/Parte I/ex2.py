@@ -9,7 +9,7 @@ def translacao(pontos, Tx, Ty):
         pontos_transladados.append((x_u, y_u))
     return pontos_transladados
     
-# Dados do Slide 8
+# Slide 8
 p1 = (6, 8)
 p2 = (4, 5)
 p3 = (8, 5)
